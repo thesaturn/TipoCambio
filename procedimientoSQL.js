@@ -2,8 +2,8 @@ var sql = require("mssql");
 
 var config = {
         user: 'sa',
-        password: 'gaco3366',
-        server: '192.1.1.248',
+        password: 'xxxx',
+        server: 'xxxx',
         database: 'BYM_ECONT',
         options: {
           dateFormat: 'dmy',
